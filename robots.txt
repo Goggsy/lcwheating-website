@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://lcwheating.co.uk/sitemap.xml
